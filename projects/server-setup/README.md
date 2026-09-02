@@ -157,11 +157,11 @@ sha256sum setup-server.sh
 
 #### Download using curl
 ```
-curl -O https://raw.githubusercontent.com/SumonPaul18/linux-shell-hub/refs/heads/main/projects/server-setup/setup-server.sh
+curl -O https://github.com/SumonPaul18/linux-shell-hub/blob/main/projects/server-setup/setup-server.sh
 ```
 #### OR using wget
 ```
-wget https://raw.githubusercontent.com/SumonPaul18/linux-shell-hub/refs/heads/main/projects/server-setup/setup-server.sh
+wget https://github.com/SumonPaul18/linux-shell-hub/blob/main/projects/server-setup/setup-server.sh
 ```
 #### Make executable and run
 ```
@@ -171,7 +171,7 @@ chmod +x setup-server.sh
 ### Method 3: One-Liner (Advanced Users)
 ```bash
 # Download and execute in one command (use with caution)
-curl -sSL https://raw.githubusercontent.com/SumonPaul18/linux-shell-hub/refs/heads/main/projects/server-setup/setup-server.sh | sudo bash
+curl -sSL https://github.com/SumonPaul18/linux-shell-hub/blob/main/projects/server-setup/setup-server.sh | sudo bash
 ```
 
 ---
